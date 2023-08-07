@@ -12,7 +12,7 @@ Dos carpetas demos de CP del M1:
 
   * Una carpeta se llama "henry-M1-checkpoint"
     Esta tiene test, por lo que deberás hacer npm install en esa carpeta.
-  * Y la otra carpeta se llama "Otro CP M1"
+  * Y la otra carpeta se llama "Otro Check Sin Test"
     está dentro del mismo repositorio, pero no tiene test.
 
 Espero te sirva para practicar!. 
